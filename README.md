@@ -14,6 +14,8 @@
 
 ### I'm a Student Developer at BITS Pilani!
 - 💻 App Developer at DVM - BITS Pilani
+- 💻 App Developer at Coding Club - BITS Pilani
+- 💻 Machine Learning Enthusiast at ACM - BITS Pilani
 - 👀 Interested in App Development and Machine Learning
 - 🌱 Proficient in AppDev using Java, Kotlin and Flutter
 - 🎯 Beginner in backend with Node.js
