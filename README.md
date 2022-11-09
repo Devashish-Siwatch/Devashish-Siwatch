@@ -23,7 +23,7 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praneetk77&show_icons=true&theme=github_dark&&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devashish-Siwatch&show_icons=true&theme=github_dark&&count_private=true" />
 
 
 ### Languages and Tools:
